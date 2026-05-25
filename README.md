@@ -266,8 +266,7 @@ class Demian:
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=ItsTheDemiGod&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=0d0221&title_color=00d4ff&text_color=7dd3fc" alt="Top Contributed Repos"/>
-
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ItsTheDemiGod&theme=dark&hide_border=false&layout=donut&bg_color=0d0221&title_color=00d4ff&text_color=7dd3fc&border_color=1e3a5f" alt="Top Languages Donut"/>
 </div>
 
 ---
